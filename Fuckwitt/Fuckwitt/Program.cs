@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Fuckwitt {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("eat shit n die");
+            Console.WriteLine("eat shit n die nigga");
         }
     }
 }
