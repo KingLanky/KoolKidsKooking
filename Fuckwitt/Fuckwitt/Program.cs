@@ -8,6 +8,7 @@ namespace Fuckwitt {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("eat shit n die nigga");
+            Console.WriteLine("eat shit n die, b0ss");
         }
     }
 }
