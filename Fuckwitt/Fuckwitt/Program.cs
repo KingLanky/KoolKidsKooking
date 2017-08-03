@@ -14,7 +14,7 @@ namespace Fuckwitt {
         static void Fish()
         {
             Console.WriteLine();
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < (DateTime.Now.Second/10); i++)
             {
                 Console.WriteLine(DateTime.Now);
             }
