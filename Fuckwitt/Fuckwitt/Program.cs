@@ -11,8 +11,7 @@ namespace Fuckwitt {
             Console.WriteLine("eat shit n die, b0ss");
 
 
-            Console.WriteLine("Kool plz");
-            Environment.Exit(0);
+            Console.WriteLine("Kool thx");
         }
     }
 }
