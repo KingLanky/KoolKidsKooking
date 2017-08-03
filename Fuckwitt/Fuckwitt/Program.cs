@@ -12,6 +12,7 @@ namespace Fuckwitt {
 
 
             Console.WriteLine("Kool plz");
+            Environment.Exit(0);
         }
     }
 }
