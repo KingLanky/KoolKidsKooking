@@ -9,9 +9,17 @@ namespace Fuckwitt {
         static void Main(string[] args) {
             Console.WriteLine("Show me memes plz");
             Console.WriteLine("eat shit n die, b0ss");
-
-
-            Console.WriteLine("Kool thx");
+            Fish();
+        }
+        static void Fish()
+        {
+            Console.WriteLine();
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(DateTime.Now);
+            }
+            
+            Console.ReadLine();
         }
     }
 }
