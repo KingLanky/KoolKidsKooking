@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 namespace Fuckwitt {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("eat shit n die nigga");
+            Console.WriteLine("Show me memes plz");
             Console.WriteLine("eat shit n die, b0ss");
+
+
+            Console.WriteLine("Kool thx");
         }
     }
 }
