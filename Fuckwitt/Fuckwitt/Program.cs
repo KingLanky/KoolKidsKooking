@@ -8,7 +8,7 @@ namespace Fuckwitt {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Show me memes plz");
-            Console.WriteLine("eat shit n die, b0ss");
+            Console.WriteLine("k b0ss");
             Fish();
         }
         static void Fish()
